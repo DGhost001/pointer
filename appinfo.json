@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "falk.ahlendorf@googlemail.com",
+    "enableMultiJS": false,
+    "longName": "Pointer",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Pointer",
+    "uuid": "3fcc4f70-121d-462e-8914-b9c0bb8bc7d4",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
